@@ -17,7 +17,7 @@ HAVING  COUNT(jpf.*) > 100
 ORDER BY 
  demand_count DESC,
  median_salary DESC
-LIMIT 10;
+LIMIT 11;
 
 /*
 ┌───────────┬──────────────┬───────────────┬────────────┐
