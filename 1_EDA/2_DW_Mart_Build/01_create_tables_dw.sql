@@ -1,0 +1,1 @@
+-- step 1: DW -create star schema tables
